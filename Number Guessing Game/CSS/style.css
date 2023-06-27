@@ -1,0 +1,31 @@
+.headContainer{
+    height: 100vh;
+}
+
+
+
+
+.gameField{
+    height: 60%;
+    width: 70%;
+}
+
+
+
+
+.hiddenNumberField{
+    height: 60%;
+    width: 30%;
+}
+
+
+
+
+.hddCircle{
+    height: 120px;
+    width: 120px;
+    border: 2px solid #000000;
+    border-radius: 50%;
+}
+
+
